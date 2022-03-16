@@ -1,0 +1,31 @@
+{
+  "name": "EcoFriends Pixel Jimmy #12",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "9ceea3edfdfe0d660321707a2793fe545fb9d6c6",
+  "edition": 12,
+  "date": 1647392796012,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Colourful"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bluehat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toung"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
